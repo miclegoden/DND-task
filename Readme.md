@@ -6,12 +6,6 @@ Features:
 - You can easily update and delete task by clicking the icon buttons on the right side of each task. 
 - You can drag and drop task to update their status.
 
-![Basic todo screenshot](./doc/media/basic-todoapp.png)
-![dnd-](https://user-images.githubusercontent.com/93111441/192956119-395a4772-6c7d-4f10-b4a3-3cac41f37809.gif) 
-<img src='./doc/media/weekly-view.png' width='700px' alt='weekly task  view'/>
-
-
-
 
 ## Tech Stack   
 - [Next.js](https://nextjs.org/) - The React Framework for Production 
@@ -20,8 +14,6 @@ Features:
 - [Nvim](https://neovim.io/) - A Vim-based Text Editor 
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - A React library to create dnd effects. 
 
-## Project Structure 
-<img src='./doc/media/project-structure.png' width='300px' alt='Project structure screenshot'/>
 
 ## Getting Started
 - Git clone this repo
@@ -57,14 +49,3 @@ Environment variables are looked up in the following places, in order, stopping 
 `.env.$(NODE_ENV)`  
 `.env`
 
-Learn more: https://nextjs.org/docs/basic-features/environment-variables
-
-## Relevant articles
-- (Learn to Build NextJS Applications)(https://medium.com/r/?url=https%3A%2F%2Famy-juan-li.medium.com%2Flist%2Fdb243e7bdf05)
-- [Build a Markdown Editor Using Electron, React, TypeScript, CodeMirror 6, and Remark](https://medium.com/r/?url=https%3A%2F%2Famy-juan-li.medium.com%2Fbuild-a-markdown-editor-using-electron-reactjs-vite-codemirror-and-remark-e551d91b6233)
-
-## About me
-- [Portfolio Website](https://www.amyjuanli.com/) - A place to write blog and display my works. 
-- [Medium Blog](https://amy-juan-li.medium.com/) - Another blogging platform. 
-- [eBook: Become a software developer without computer science degree](https://amyjuanli.gumroad.com/l/wplun)
-- [SkillShare Class: Empower your life by becoming a software developer without a computer science degree.](https://www.skillshare.com/classes/Empower-your-life-Become-a-software-developer-without-a-CS-degree/1243883176)
